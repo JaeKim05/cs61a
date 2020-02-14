@@ -7,3 +7,15 @@ lab/lab00/.ok_storage.dat
 lab/lab00/lab00.ok
 lab/lab00/ok
 lab/lab00/tests/
+lab/lab01/tests/__init__.py
+lab/lab01/tests/clones.py
+lab/lab01/tests/control.py
+lab/lab01/tests/debugging-quiz.py
+lab/lab01/tests/if-statements.py
+lab/lab01/tests/short-circuit.py
+lab/lab01/ok
+lab/lab01/lab01.ok
+lab/lab01/.ok_history
+lab/lab01/.ok_messages
+lab/lab01/__pycache__/
+lab/lab01/tests/
