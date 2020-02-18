@@ -32,3 +32,6 @@ hw/hw01/__pycache__/
 lab/lab01/.ok_storage.dir
 hw/hw01/ok 
 hw/hw01/hw01.ok
+hw/hw02/construct_check.py
+hw/hw02/hw02.ok
+hw/hw02/ok
