@@ -22,6 +22,13 @@ lab/lab01/tests/
 lab/lab01/.lab01_extra.py.swp
 lab/lab01/.ok_storage.bak
 lab/lab01/.ok_storage.dat
+hw/hw01/.hw01.py.swp
+hw/hw01/.ok_history
+hw/hw01/.ok_messages
+hw/hw01/.ok_storage.bak
+hw/hw01/.ok_storage.dat
+hw/hw01/.ok_storage.dir
+hw/hw01/__pycache__/
 lab/lab01/.ok_storage.dir
-   
-
+hw/hw01/ok 
+hw/hw01/hw01.ok
