@@ -35,3 +35,10 @@ hw/hw01/hw01.ok
 hw/hw02/construct_check.py
 hw/hw02/hw02.ok
 hw/hw02/ok
+hw/hw02/.hw02.py.swp
+hw/hw02/.ok_history
+hw/hw02/.ok_messages
+hw/hw02/.ok_storage.bak
+hw/hw02/.ok_storage.dat
+hw/hw02/.ok_storage.dir
+hw/hw02/__pycache__
