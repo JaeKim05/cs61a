@@ -42,3 +42,14 @@ hw/hw02/.ok_storage.bak
 hw/hw02/.ok_storage.dat
 hw/hw02/.ok_storage.dir
 hw/hw02/__pycache__
+lab/lab02/.lab02.py.swp
+lab/lab02/.ok_history
+lab/lab02/.ok_messages
+lab/lab02/.ok_storage.bak
+lab/lab02/.ok_storage.dat
+lab/lab02/.ok_storage.dir
+lab/lab02/__pycache__/
+lab/lab02/lab02.ok
+lab/lab02/ok
+lab/lab02/tests/
+lab/lab02/.lab02_extra.py.swp
