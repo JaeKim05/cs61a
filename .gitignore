@@ -65,3 +65,15 @@ lab/lab04/lab04.ok
 lab/lab04/ok
 lab/lab04/tests
 .gitignore.swp
+lab/lab05/.lab05.py.swp
+lab/lab05/.ok_history
+lab/lab05/.ok_messages
+lab/lab05/.ok_storage.bak
+lab/lab05/.ok_storage.dat
+lab/lab05/.ok_storage.dir
+lab/lab05/__pycache__/
+lab/lab05/construct_check.py
+lab/lab05/lab05.ok
+lab/lab05/lab05_extra.py
+lab/lab05/ok
+lab/lab05/tests/
